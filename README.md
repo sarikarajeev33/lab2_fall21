@@ -1,5 +1,5 @@
 Lab 2
-Due: Mon Feb 3, 9am
+
 
 Problem
 Every country has a change in population over time (up or down) due to three causes: births, deaths, and migration. Write a program that estimates future population size for a country given its number of births, deaths, and migrations per second, the current population, and the desired number of years in the future for the estimate. For example, if the user enters 0.125 births per second, 0.0833 deaths per second, 0.0357 inmigrations per second, a current population of 326,766,748 (estimates from the US Census) and wants to estimate the population 5 years into the future, the program should respond with an estimate of 338,971,180. Note: to specify net emmigration, use a negative number for migration.
